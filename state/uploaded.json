@@ -14,6 +14,21 @@
       ],
       "drive_removal": "unlinked",
       "uploaded_at": "2026-11-26T15:41:50.834911+00:00"
+    },
+    "1v0iE6UdJdL-zGBt-r6p3qB1irxVIQmw6": {
+      "name": "2026-11-17-strawberry-chia-yogurt-cups-19s.mp4",
+      "yt_id": "VmKWDN_aqT0",
+      "yt_url": "https://youtu.be/VmKWDN_aqT0",
+      "title": "The secret to the creamiest strawberry dessert #Shorts",
+      "topic": "chia yogurt dessert",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#foodie",
+        "#healthydessert"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-27T00:45:35.863027+00:00"
     }
   },
   "history": [
@@ -24,6 +39,14 @@
       "topic": "Healthy Snacks",
       "drive_removal": "unlinked",
       "timestamp": "2026-11-26T15:41:50.834911+00:00"
+    },
+    {
+      "drive_id": "1v0iE6UdJdL-zGBt-r6p3qB1irxVIQmw6",
+      "yt_id": "VmKWDN_aqT0",
+      "title": "The secret to the creamiest strawberry dessert #Shorts",
+      "topic": "chia yogurt dessert",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-27T00:45:35.863027+00:00"
     }
   ]
 }
